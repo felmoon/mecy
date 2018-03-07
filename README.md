@@ -1,0 +1,2 @@
+# mecy
+My workspace configuration
